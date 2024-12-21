@@ -21,7 +21,6 @@
     "@reduxjs/toolkit": "^1.9.7",
     "@tabler/icons-react": "^2.39.0",
     "apexcharts": "3.43.0",
-    "appwrite": "^16.1.0",
     "axios": "^1.5.1",
     "axios-mock-adapter": "^1.22.0",
     "i18next": "^23.5.1",
@@ -30,9 +29,9 @@
     "next": "14.2.7",
     "next-auth": "^4.24.7",
     "prop-types": "^15.7.2",
-    "react": "^18.3.1",
+   "react": "^18.3.1",
     "react-apexcharts": "^1.4.1",
-    "react-dom": "^18.3.1",
+   "react-dom": "^18.3.1",
     "react-i18next": "^13.2.2",
     "react-redux": "^8.0.2",
     "redux-persist": "^6.0.0",
@@ -40,9 +39,7 @@
     "stylis-plugin-rtl": "^2.1.1"
   },
   "devDependencies": {
-    "@types/node": "22.10.2",
     "eslint": "latest",
-    "eslint-config-next": "latest",
-    "typescript": "5.7.2"
+    "eslint-config-next": "latest"
   }
 }
